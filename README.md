@@ -14,6 +14,7 @@
 Criar conhecimento prático e acrescentar conhecimento teórico a fim de me preparar para o mercado de trabalho relacionado ao meu curso atual.
 
 **EXPERIÊNCIA**
+
 **Vendedor/ Atendimento ao cliente**
 
 Pizza Pré Assada do Vale
