@@ -1,13 +1,11 @@
 # Portfolio
-**Ana Julia Gregate**
+**ANA JULIA GREGATE**
 
 **Estágio**
 
 **CONTATO**
 
 **Email:** [ana.gregate@fatec.sp.gov.br](mailto:ana.gregate@fatec.sp.gov.br)
-
-**Telefone** (12) 988535754
 
 **Data de nascimento:** 24/09/2004
 
