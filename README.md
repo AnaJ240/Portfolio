@@ -1,4 +1,4 @@
-# Portfolio
+# Currículo
 **ANA JULIA GREGATE**
 
 **Estágio**
