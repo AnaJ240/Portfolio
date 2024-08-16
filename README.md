@@ -11,7 +11,7 @@
 
 **OBJETIVO**
 
-Criar conhecimento prático e acrescentar conhecimento teórico a fim de me preparar para o mercado de trabalho relacionado ao meu curso atual.
+Criar conhecimento prático e acrescentar conhecimento teórico afim de me preparar para o mercado de trabalho relacionado ao meu curso atual.
 
 **EXPERIÊNCIA**
 
@@ -21,7 +21,7 @@ Pizza Pré Assada do Vale
 
 * Organização de estoque;
 
-* Auxilia no financeiro;
+* Auxilio no financeiro;
 
 * Oferece treinamento individualizado aos novos empregados.
 
