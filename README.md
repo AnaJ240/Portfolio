@@ -1,52 +1,12 @@
-# Currículo
-**ANA JULIA GREGATE**
+**Participação Projeto Integrador** ⬇️ <br>
 
-**Estágio**
+https://github.com/ExpandSolution/ExpandSolution.git <br>
+<br>
+ **Competências desenvolvidas:** <br>
+- **Coleta e Análise de Dados:** Habilidade para coletar, analisar e interpretar grandes volumes de dados relacionados ao desempenho dos veículos, rotas e custos. <br>
+- **Otimização de Roteiros:** Capacidade de utilizar algoritmos e ferramentas de otimização para melhorar a eficiência das rotas e reduzir custos com combustível e tempo. <br>
+- **Integração de Dados:** Competência para integrar dados de diversas fontes, como MySQL, planilhas e APIs, para fornecer uma visão consolidada e atualizada das operações. <br>
+- **Automação e Relatórios:** Utilização de Python para gerar relatórios automatizados e análises que são então apresentados em Power BI, proporcionando insights acionáveis e atualizados para os tomadores de decisão.
 
-**CONTATO**
+  
 
-**Email:** [ana.gregate@fatec.sp.gov.br](mailto:ana.gregate@fatec.sp.gov.br)
-
-**Data de nascimento:** 24/09/2004
-
-**OBJETIVO**
-
-Criar conhecimento prático e acrescentar conhecimento teórico afim de me preparar para o mercado de trabalho relacionado ao meu curso atual.
-
-**EXPERIÊNCIA**
-
-**Vendedor/ Atendimento ao cliente**
-
-Pizza Pré Assada do Vale
-
-* Organização de estoque;
-
-* Auxilio no financeiro;
-
-* Oferece treinamento individualizado aos novos empregados.
-
-**EDUCAÇÃO**
-
-* Logística- Fatec São José dos Campos- Prof Jessen Vidal **2023-2026**
-
-**CURSOS EXTRACURRICULARES**
-
-* Curso de Desenvolvimento e Liderança- Instituto Inexh
-
-* Curso de Competência Transversal- Finanças pessoais. SENAI- SP
-
-* Curso de Assistente Administrativo- Prime Cursos
-
-* Microsoft Excel essencial- Curso em Vídeo
-
-**HABILIDADES**
-
-* Assistência ao consumidor
-
-* Organização de planilhas
-
-* Organização de estoque
-
-* Inglês (Básico- Intermediário)
-
-* Pacote Office (Básico- Intermediário)
